@@ -21,7 +21,8 @@ Please refer to the LICENSE in the repo.
 
 ## Code Sources
 
-
+https://btsmith1212.github.io/Work-Day-Scheduler/
+https://github.com/btsmith1212/Work-Day-Scheduler.git
 
 ## Screenshot
 
