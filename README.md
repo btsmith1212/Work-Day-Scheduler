@@ -22,4 +22,7 @@ Please refer to the LICENSE in the repo.
 ## Code Sources
 
 
+
 ## Screenshot
+
+<img width="934" alt="Capture" src="https://github.com/btsmith1212/Work-Day-Scheduler/assets/135077506/9a8ec377-1fcd-40ad-b399-bf352e6a264e">
